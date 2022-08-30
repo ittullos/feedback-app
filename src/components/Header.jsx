@@ -22,10 +22,10 @@ Header.defaultProps = {
   textColor: '#ff6a95'
 }
 
-Header.propTypes = {
-  text: PropTypes.string,
-  bgColor: PropTypes.string,
-  textColor: PropTypes.string
-}
+// Header.propTypes = {
+//   text: PropTypes.string,
+//   bgColor: PropTypes.string,
+//   textColor: PropTypes.string
+// }
 
 export default Header
